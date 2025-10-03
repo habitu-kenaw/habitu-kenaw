@@ -3,7 +3,7 @@
 <img width="1024" height="230" src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*l1GgcqQ-pRxY5o1t">
 <p align="justify"> I have done my Computer Science bachelor's degree from Gambella University. I'm passionate about creating beautiful, functional, and user-friendly websites and applications. I constantly pushing myself to grasp and learn new technology quickly.</p>
 <ul>
-	<li style="font-weight: bold; font-size: 20px; text-align: justify;"> 🔭 I’m currently open for new job opportunity as Full-Stack developer.</li>
+	<li style="font-weight: bold; font-size: 20px; text-align: justify;"></li>
 </ul>
 <h3 align="left">About Me</h3>
 <hr style="width: 100%; height: 5px; color: gray; background: gray;">
